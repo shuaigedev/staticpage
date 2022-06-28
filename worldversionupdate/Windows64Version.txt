@@ -1,0 +1,1 @@
+{"ForceUpdateGame":false,"LatestGameVersion":"0.1","InternalGameVersion":1,"InternalResourceVersion":2,"UpdatePrefixUri":"http://192.168.0.57:280/worldversionupdate/0_1_2/Windows64","VersionListLength":3195,"VersionListHashCode":1369931049,"VersionListCompressedLength":1416,"VersionListCompressedHashCode":-1231737116}
